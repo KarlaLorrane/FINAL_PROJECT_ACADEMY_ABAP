@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>YKL_PLATE_TYPE</ROLLNAME>
+    <DDLANGUAGE>P</DDLANGUAGE>
+    <DOMNAME>YKL_PLATE_TYPE</DOMNAME>
+    <HEADLEN>10</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>10</SCRLEN2>
+    <SCRLEN3>10</SCRLEN3>
+    <DDTEXT>Plate Type</DDTEXT>
+    <REPTEXT>Plate Type</REPTEXT>
+    <SCRTEXT_S>Plate Type</SCRTEXT_S>
+    <SCRTEXT_M>Plate Type</SCRTEXT_M>
+    <SCRTEXT_L>Plate Type</SCRTEXT_L>
+    <DTELMASTER>P</DTELMASTER>
+    <SHLPNAME>ZSH_PLATE</SHLPNAME>
+    <SHLPFIELD>PLATE_TYPE</SHLPFIELD>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>
